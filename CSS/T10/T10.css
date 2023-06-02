@@ -1,0 +1,10 @@
+.container{
+    border: 5px solid black;
+    padding: 60px;
+    width: 53%;
+    margin: 100px auto;
+}
+
+.box{
+    background-color: #e4eb1e;
+}
